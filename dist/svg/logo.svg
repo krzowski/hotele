@@ -1,0 +1,17 @@
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="50" width="100" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 100 50.000001">
+ <g id="layer1" transform="translate(0 -1002.4)">
+  <g id="text4136" transform="scale(.73295 1.3644)">
+   <path id="path4141" d="m18.364 750.67v-10.078h3.2565v24.544h-3.2565v-11.586m-12.752 0v11.586h-3.2565v-24.544h3.2565v10.078"/>
+   <path id="path4143" d="m29.049 743.71q3.0508-3.5993 8.6383-3.5993 5.5874 0 8.6383 3.5993 3.0508 3.5993 3.0508 9.461 0 5.3475-3.2222 8.8782-3.1879 3.4964-8.4669 3.4964-5.2789 0-8.5011-3.4964-3.1879-3.5307-3.1879-8.8782 0-5.8617 3.0508-9.461zm2.4681 16.317q2.2624 2.6395 6.1702 2.6395t6.1702-2.6395q2.2624-2.6738 2.2624-6.8558 0-1.9882-0.41134-3.6678-0.37707-1.6797-1.2683-3.1879-0.89125-1.5426-2.6052-2.4338-1.7139-0.89125-4.1477-0.89125t-4.1477 0.89125-2.6052 2.4338q-0.89125 1.5083-1.3026 3.1879-0.37707 1.6797-0.37707 3.6678 0 4.182 2.2624 6.8558z"/>
+   <path id="path4145" d="m59.843 765.14v-21.664h-8.0898v-2.8794h19.505v2.8794h-8.1584v21.664h-3.2565z"/>
+   <path id="path4149" d="m97.22 765.14v-24.544h3.2565v21.664h12.066v2.8794h-15.323z"/>
+  </g>
+  <rect id="rect1" style="fill-rule:evenodd" height="3.5714" width="12.809" y="1025.4" x="54.788"/>
+  <rect id="rect2" style="fill-rule:evenodd" height="3.5714" width="12.809" y="1040.4" x="54.788"/>
+  <rect id="rect3" style="fill-rule:evenodd" height="3.5714" width="12.809" y="1010.4" x="54.788"/>
+  <rect id="rect4" style="fill-rule:evenodd" height="3.5714" width="12.809" y="1025.4" x="85.345"/>
+  <rect id="rect5" style="fill-rule:evenodd" height="3.5714" width="12.809" y="1040.4" x="85.345"/>
+  <rect id="rect6" style="fill-rule:evenodd" height="3.5714" width="12.809" y="1010.4" x="85.345"/>
+  <rect id="rect7" style="fill-rule:evenodd" height="3.5714" width="7.7578" y="1025.4" x="4.9119"/>
+ </g>
+</svg>
